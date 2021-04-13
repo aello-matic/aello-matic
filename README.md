@@ -1,4 +1,6 @@
 ### Hi there 👋
+## STATS:
+[![aello-matic's GitHub stats](https://github-readme-stats.vercel.app/api?username=aello-matic)](https://github.com/aello-matic/github-readme-stats)
 
 <!--
 **aello-matic/aello-matic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
