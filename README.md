@@ -1,6 +1,6 @@
-### Hi there 👋
-
 [![](https://github-readme-stats.vercel.app/api?username=aello-matic&show_icons=true&theme=kacho_ga&count_private=true&hide=prs,issues,contribs&hide_rank=true&include_all_commits=true&hide_border=true)](https://github.com/kristenprescott/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aello-matic&layout=compact&theme=kacho_ga&hide_border=true)](https://github.com/kristenprescott/github-readme-stats)
 
 <!--
